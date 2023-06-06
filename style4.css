@@ -1,6 +1,10 @@
-#destaque{
+.fundo{
+    background: purple;
+}
+
+.destaque{
     text-align: center;
-    color: red;
+    color: greenyellow;
 }
 
 img{
