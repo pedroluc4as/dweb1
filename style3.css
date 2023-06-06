@@ -1,0 +1,13 @@
+.fundo{
+    background: purple;
+}
+
+.destaque{
+    text-align: center;
+    color: greenyellow;
+}
+
+img{
+    width: 470px;
+    height: 200px;
+}
